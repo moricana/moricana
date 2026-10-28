@@ -6,8 +6,9 @@
 
 I turn business questions into clear metrics, useful dashboards, and practical automation.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Projects-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moricana/portfolio_analyst)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morican)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20Projects-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moricana/portfolio_analyst)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0000CD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morican)
+[![Telegram](https://img.shields.io/badge/Telegram-Connect-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/explorrre)
 
 </div>
 
@@ -32,7 +33,7 @@ I enjoy going beyond the numbers: understanding the business problem, defining m
 | [Financial Planning & Cash Flow Analytics](https://github.com/moricana/portfolio_analyst/tree/main/it-consulting/superset_financial_planning) | Cash flow and plan-vs-actual reporting | SQL Server, Apache Superset |
 | [Retail Loss Analysis](https://github.com/moricana/portfolio_analyst/tree/main/ecommerce/04-retail_loss) | Sales, promotions, returns, and exploratory analysis | Python, pandas, NumPy |
 | [E-commerce Operations Automation](https://github.com/moricana/portfolio_analyst/tree/main/ecommerce/03-operations_automation) | Data cleaning, matching, and file-generation workflows | Python, pandas, openpyxl |
-| [AI Shopping Assistant — Agents Week](https://github.com/moricana/portfolio_analyst/tree/main/ai-agents/ecommerce-shopping-assistant) | Tool calling, conversational memory, multi-agent recommendations | Python, Jupyter Notebook |
+| [AI Shopping Assistant — Agents Week](https://github.com/moricana/portfolio_analyst/tree/main/ai-agents) | Tool calling, conversational memory, multi-agent recommendations | Python, Jupyter Notebook |
 
 More projects and implementation details are available in my [full portfolio](https://github.com/moricana/portfolio_analyst).
 
